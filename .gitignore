@@ -1,1 +1,8 @@
 # Ignore Things Here
+
+# MacOS Finder Files
+.DS_Store
+
+
+# npm directories
+node_modules/
